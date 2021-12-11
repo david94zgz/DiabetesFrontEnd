@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/david94zgz/dsfrontend1/static/css/main.a1c20cda.chunk.css",
+    "main.js": "/david94zgz/dsfrontend1/static/js/main.0436f87b.chunk.js",
+    "main.js.map": "/david94zgz/dsfrontend1/static/js/main.0436f87b.chunk.js.map",
+    "runtime-main.js": "/david94zgz/dsfrontend1/static/js/runtime-main.d4e2d4b3.js",
+    "runtime-main.js.map": "/david94zgz/dsfrontend1/static/js/runtime-main.d4e2d4b3.js.map",
+    "static/js/2.0e9095e5.chunk.js": "/david94zgz/dsfrontend1/static/js/2.0e9095e5.chunk.js",
+    "static/js/2.0e9095e5.chunk.js.map": "/david94zgz/dsfrontend1/static/js/2.0e9095e5.chunk.js.map",
+    "index.html": "/david94zgz/dsfrontend1/index.html",
+    "static/css/main.a1c20cda.chunk.css.map": "/david94zgz/dsfrontend1/static/css/main.a1c20cda.chunk.css.map",
+    "static/js/2.0e9095e5.chunk.js.LICENSE.txt": "/david94zgz/dsfrontend1/static/js/2.0e9095e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4e2d4b3.js",
+    "static/js/2.0e9095e5.chunk.js",
+    "static/css/main.a1c20cda.chunk.css",
+    "static/js/main.0436f87b.chunk.js"
+  ]
+}
